@@ -19,4 +19,4 @@ This project is part of the Udacity Front-End Web Developer Nanodegree Program. 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/muhammad-kasati/Udacity_project3.git
+   git clone https://github.com/Amjad-Hamidi/Weather-Journal-App_Project.git
